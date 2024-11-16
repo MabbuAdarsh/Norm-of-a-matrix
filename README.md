@@ -40,6 +40,7 @@ print(norm_of_matrix)
 ```
 
 ```
+```
 ## Output:
 ### 1-Norm of a Matrix
 ![image](https://github.com/user-attachments/assets/adbfd510-e823-470a-915c-6178ace99315)
